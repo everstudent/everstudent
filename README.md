@@ -1,3 +1,3 @@
-### Hi there 👋 everyone, welcome
+### Hi there 👋 everyone
 
-🌱 I’m currently learning AI (based on python mostly)
+I'm learning shit and sharing notes, projects, insights.
